@@ -6,6 +6,8 @@ import { NavHashLink as NavLink } from 'react-router-hash-link';
 
 import { MySection } from './components/mysection';
 
+import "animate.css";
+
 const Nav = styled.nav`
   display: flex;
   flex-direction: column;
